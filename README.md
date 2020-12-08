@@ -106,7 +106,7 @@
 18. 32, 5, 1, 32
 19. 7, 13, 1, -5, 8
 ### 참고 자료
-(영상 보러가기)[https://play.mbus.tv/1762b179b0931bbb]
+[영상 보러가기](https://play.mbus.tv/1762b179b0931bbb)
 
 ## 7교시 - 과학
 ### 문제
@@ -114,4 +114,20 @@
 ### 문제
 [구글 폼 바로가기](https://forms.gle/LtqcQfqcQ6cnmAam8)
 ### 정답
+__영상 내용 확인하기__
+1. 인화수소
+2. X
+
+__핵심역량 더 키우기1__
+1. 코펜하겐 해석
+2. 웜홀
+3. 1. 특수 상대성 이론
+   2. 일반 상대성 이론
+   
+__핵심역량 더 키우기2__
+1. 로슈 한계
+2. attract
+3. 스윙바이
+4. O
 ### 참고 자료
+[![Youtube](http://img.youtube.com/vi/IcRXJOZPoLc/0.jpg)](https://www.youtube.com/embed/IcRXJOZPoLc "Youtube")
