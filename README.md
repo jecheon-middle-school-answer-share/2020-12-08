@@ -57,8 +57,20 @@
 ### 바로가기
 [영어 바로가기](https://rang.edunet.net/class/G000325221/hmwkppList.do?hmwkSeq=722232&hmwkTypeCd=ALL)
 ### 문제
+```
+다음 영상을 보면서 공항 이용법 ~ 비행기 탑승까지의 해야 할 일을 알아봅시다.
+```
 ### 정답
+1. 직통열차
+2. 공항버스
+3. 출국장
+4. 수화물
+5. 115
+6. 100
+7. 여권
+8. 132
 ### 참고 자료
+[![Youtube](http://img.youtube.com/vi/ZpWI4iivJpY/0.jpg)](https://www.youtube.com/embed/ZpWI4iivJpY "Youtube")
 
 ## 5교시 - 정보
 ### 바로가기
